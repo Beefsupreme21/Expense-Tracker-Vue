@@ -14,13 +14,12 @@
 
 tr {
     max-height: 20px;
+
 }
 
 td {
     border: 1px solid black;
-    /* width: 300px;
-
-    gap: 0; */
+    width: 300px;
 }
 
 .input-section {
